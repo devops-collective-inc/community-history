@@ -1,0 +1,8 @@
+# Nonprofit
+My previous nonprofit experience with PoshComm.org made me pretty wary of trying again, but we were anxious to avoid paying taxes on money that _we'd eventually be spending on expenses anyway_. Again, we'd been running ourselves as a "not for profit;" nobody was getting enriched from the organization. Quite the opposite, in fact.
+
+But the situation had changed since my 2007 attempt with PoshComm. 
+
+Microsoft had open-sourced the "PowerShell Language Specification," opening the possibility for others to produce a compatible shell or their own on any platform. "DevOps" was something PowerShell helped enable, but wasn't itself a commercial product or technology. Desired State Configuration, or DSC, existed as an open-source project for Linux. The line had become blurry.
+
+We renamed the corporation from PowerShell.org to The DevOps Collective, Inc., to better reflect our new, broader, and hopefully more nonprofit-friendly mission. We resolved to fund educational activities and scholarships (which we do, to the tune of $50,000 a year for an organization called TechImpact and their IT Works program). We added "+ DevOps" to Summit to de-emphasize the PowerShell aspect. The result was a 60+ application, [available here for the first time](). Note that some portions, such as our corporate bylaws, are not included, although those were provided to the IRS. Those things are fairly boilerplate in our case, and excluding them cut down on the file size.
