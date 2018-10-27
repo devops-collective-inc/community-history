@@ -5,6 +5,7 @@ frontmatter.md
 4-summits.md
 5-nonprofit.md
 6-handoff.md
+6a-new-look.md
 7-this-community-is-your-community.md
 a-lessons-learned.md
 b-community-finances.md
