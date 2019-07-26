@@ -3,7 +3,7 @@ In late 2012, the year we'd started PowerShell.org, some of us were speaking at 
 
 We'd always figured that we'd eventually run our own "PowerShell Deep Dive" event, but the product team made it clear that they needed us to do it _now_, please, and that they couldn't give us a single red cent to make it happen. Wisely, they knew Microsoft would eventually get distracted and withdraw funding, so they needed the event to survive on its own, detached from fickle corporate interests.
 
-![Our visit to MS HQ](images/image3.jpg)
+![Our visit to MS HQ](resources/images/image3.jpg)
 
 And so, quite ahead of schedule, PowerShell Summit 2013 was invented for April of 2013. We minimized expenses by holding our 100-person event in two conference rooms on Microsoft's campus. The rooms were actually right off the lobbies of two adjacent buildings, and so we spent three days criss-crossing the courtyard between them as sessions changed. The expenses were not zero, though, and deposits were required to secure things like food and hotel space. Those deposits went on our personal credit cards. The day the last ticket was sold, we heaved an exhausted sigh of relief and started paying our credit card bills. Standing in the courtyard, hoping Bellevue's notoriously wet weather could hold off for another day, it finally occurred to us what we'd pulled off. I won't say that no small, quiet tears of relief were shed, because that'd be a lie.
 
